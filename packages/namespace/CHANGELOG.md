@@ -1,5 +1,17 @@
 # @computesdk/namespace
 
+## 1.5.0
+
+### Minor Changes
+
+- d49d036: implement refactored provider package for namespace
+
+### Patch Changes
+
+- Updated dependencies [d49d036]
+  - computesdk@2.3.0
+  - @computesdk/provider@1.0.28
+
 ## 1.4.0
 
 ### Minor Changes
