@@ -1,5 +1,11 @@
 # @computesdk/modal
 
+## 1.8.30
+
+### Patch Changes
+
+- f0bf381: Update packages for direct providers, fix runloop keep_alive default, and update daytona list method
+
 ## 1.8.29
 
 ### Patch Changes
