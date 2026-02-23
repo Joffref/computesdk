@@ -1,5 +1,11 @@
 # computesdk
 
+## 2.3.0
+
+### Minor Changes
+
+- d49d036: implement refactored provider package for namespace
+
 ## 2.2.1
 
 ### Patch Changes
