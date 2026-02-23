@@ -1,5 +1,11 @@
 # @computesdk/hopx
 
+## 0.2.11
+
+### Patch Changes
+
+- e2301fc: Update packages for direct providers, fix runloop keep_alive default, and update daytona list method
+
 ## 0.2.10
 
 ### Patch Changes

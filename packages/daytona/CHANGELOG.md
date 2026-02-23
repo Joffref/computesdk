@@ -1,5 +1,11 @@
 # @computesdk/daytona
 
+## 1.7.15
+
+### Patch Changes
+
+- e2301fc: Update packages for direct providers, fix runloop keep_alive default, and update daytona list method
+
 ## 1.7.14
 
 ### Patch Changes

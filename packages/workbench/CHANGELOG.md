@@ -1,5 +1,21 @@
 # @computesdk/workbench
 
+## 10.0.0
+
+### Patch Changes
+
+- Updated dependencies [e2301fc]
+- Updated dependencies [e2301fc]
+  - @computesdk/namespace@1.4.0
+  - @computesdk/runloop@1.3.35
+  - @computesdk/daytona@1.7.15
+  - @computesdk/blaxel@1.5.8
+  - @computesdk/codesandbox@1.5.35
+  - @computesdk/e2b@1.7.35
+  - @computesdk/hopx@0.2.11
+  - @computesdk/modal@1.8.30
+  - @computesdk/vercel@1.7.14
+
 ## 9.0.0
 
 ### Patch Changes
