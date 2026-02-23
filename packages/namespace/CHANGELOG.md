@@ -1,11 +1,5 @@
 # @computesdk/namespace
 
-## 1.4.0
-
-### Minor Changes
-
-- e2301fc: Update namespace provider to infra model provider
-
 ## 1.3.0
 
 ### Minor Changes

@@ -1,11 +1,5 @@
 # @computesdk/e2b
 
-## 1.7.35
-
-### Patch Changes
-
-- e2301fc: Update packages for direct providers, fix runloop keep_alive default, and update daytona list method
-
 ## 1.7.34
 
 ### Patch Changes

@@ -29,7 +29,7 @@ export const PROVIDER_AUTH = {
   cloudflare: [['CLOUDFLARE_API_TOKEN', 'CLOUDFLARE_ACCOUNT_ID']],
   codesandbox: [['CSB_API_KEY']],
   blaxel: [['BL_API_KEY', 'BL_WORKSPACE']],
-  namespace: [['NSC_TOKEN']],
+  namespace: [['NSC_TOKEN'], ['NSC_TOKEN_FILE']],
   hopx: [['HOPX_API_KEY']],
 } as const;
 
@@ -140,6 +140,7 @@ export const PROVIDER_ENV_MAP: Record<ProviderName, Record<string, string>> = {
   },
   namespace: {
     NSC_TOKEN: 'token',
+    NSC_TOKEN_FILE: 'tokenFile',
   },
   hopx: {
     HOPX_API_KEY: 'apiKey',
