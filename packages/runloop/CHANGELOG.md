@@ -1,5 +1,11 @@
 # @computesdk/runloop
 
+## 1.3.35
+
+### Patch Changes
+
+- e2301fc: Update packages for direct providers, fix runloop keep_alive default, and update daytona list method
+
 ## 1.3.34
 
 ### Patch Changes

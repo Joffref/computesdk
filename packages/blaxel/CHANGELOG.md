@@ -1,5 +1,11 @@
 # @computesdk/blaxel
 
+## 1.5.8
+
+### Patch Changes
+
+- e2301fc: Update packages for direct providers, fix runloop keep_alive default, and update daytona list method
+
 ## 1.5.7
 
 ### Patch Changes
